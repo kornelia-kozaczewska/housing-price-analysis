@@ -10,14 +10,6 @@ The dataset was cleaned and normalized, then explored with:
 The goal was to identify major turning points in the housing market and group cities with similar price dynamics.
 
 
-## Technologies
-- Python 3.x
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- tslearn (DTW, TimeSeriesKMeans)
-- ruptures (PELT)
-
-
 ## Data
 - Source: **National Bank of Poland (NBP)**, quarterly transaction prices of apartments.  
 - Period: **Q1 2018 – Q4 2024**  
