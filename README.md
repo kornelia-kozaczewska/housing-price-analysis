@@ -26,11 +26,8 @@ The goal was to identify major turning points in the housing market and group ci
   - For sub-periods: e.g., in “Period II” the best fit was `k = 3`.
 
 ### 2. Breakpoint Detection (PELT)
-- Detected statistically significant turning points in housing price dynamics.  
-- Key breakpoints identified:  
-  - **Q1 2019** - end of cheap credit phase, faster growth,  
-  - **Q3 2021** - pre-adjustments before interest rate hikes,
-  - **Q4 2022** - slowdown due to war, inflation, and reduced mortgage activity.
+- Detected statistically significant turning points in housing price dynamics.
+- Key breakpoints: **Q1 2019**, **Q3 2021**, **Q4 2022**.
 
 ## Key Findings
 - Prices rose from **4-8k PLN/m²** (Q1 2018) to **9-17k PLN/m²** (Q4 2024).
