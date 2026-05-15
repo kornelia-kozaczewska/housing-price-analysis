@@ -1,4 +1,4 @@
-# Housing Price Analysis in Poland (2018–2024)
+# Housing Price Analysis in Poland (2018-2024)
 
 ## Project Overview
 This project analyzes housing price dynamics in 17 major Polish cities between 2018 and 2024.  
@@ -12,7 +12,7 @@ The goal was to identify major turning points in the housing market and group ci
 
 ## Data
 - Source: **National Bank of Poland (NBP)**, quarterly transaction prices of apartments.  
-- Period: **Q1 2018 – Q4 2024**  
+- Period: **Q1 2018 - Q4 2024**  
 - Cities: 17 largest Polish cities (e.g., Warsaw, Kraków, Gdańsk, Wrocław).
 
 
@@ -28,16 +28,21 @@ The goal was to identify major turning points in the housing market and group ci
 ### 2. Breakpoint Detection (PELT)
 - Detected statistically significant turning points in housing price dynamics.  
 - Key breakpoints identified:  
-  - **Q1 2019** – end of cheap credit phase, faster growth,  
-  - **Q3 2021** – pre-adjustments before interest rate hikes,  
-  - **Q4 2021** – start of interest rate hikes,  
-  - **Q4 2022** – slowdown due to war, inflation, and reduced mortgage activity.
+  - **Q1 2019** - end of cheap credit phase, faster growth,  
+  - **Q3 2021** - pre-adjustments before interest rate hikes,
+  - **Q4 2022** - slowdown due to war, inflation, and reduced mortgage activity.
 
+## Key Findings
+- Prices rose from **4-8k PLN/m²** (Q1 2018) to **9-17k PLN/m²** (Q4 2024).
+- Three city clusters identified based on price trajectory similarity:
+  - **Western/southern cities** - strong, stable growth (e.g. Wrocław, Kraków)
+  - **North-central cities** - slow growth
+  - **Central/eastern cities** - dynamic growth
+- Three structural breakpoints detected, each aligned with a macroeconomic event:
+  - **Q1 2019** - end of cheap credit phase
+  - **Q3 2021** - pre-adjustments before interest rate hikes
+  - **Q4 2022** - slowdown due to war, inflation, and reduced mortgage activity
 
-## Insights
-- **Housing prices in Poland rose continuously between 2018–2021**, with sharp acceleration during the COVID-19 pandemic.  
-- **Detected breakpoints** align with macroeconomic and geopolitical events:  
-  - Interest rate hikes in 2021,  
-  - War in Ukraine and inflation shock in 2022.  
-- **Cities can be clustered** into groups with similar price dynamics, which can support forecasting and housing policy design.
-
+## Reference
+This repository contains the code and data underlying a paper currently under review.  
+ORCID: [0009-0002-1084-0284](https://orcid.org/0009-0002-1084-0284)
