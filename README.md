@@ -35,10 +35,14 @@ The goal was to identify major turning points in the housing market and group ci
   - **Western/southern cities** - strong, stable growth (e.g. Wrocław, Kraków)
   - **North-central cities** - slow growth
   - **Central/eastern cities** - dynamic growth
+
+![City clusters, full period](images/clusters_full_period.png)
 - Three structural breakpoints detected, each aligned with a macroeconomic event:
   - **Q1 2019** - end of cheap credit phase
   - **Q3 2021** - pre-adjustments before interest rate hikes
   - **Q4 2022** - slowdown due to war, inflation, and reduced mortgage activity
+
+![Detected breakpoints on the mean normalized price series](images/breakpoints.png)
 
 ## Reference
 This repository contains the code and data underlying a paper currently under review.  
