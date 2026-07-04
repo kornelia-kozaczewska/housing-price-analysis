@@ -15,6 +15,13 @@ The goal was to identify major turning points in the housing market and group ci
 - Period: **Q1 2018 - Q4 2024**  
 - Cities: 17 largest Polish cities (e.g., Warsaw, Kraków, Gdańsk, Wrocław).
 
+## How to run
+```
+pip install -r requirements.txt
+jupyter notebook housing-price-analysis.ipynb
+```
+The dataset (`housing-prices-primary.xlsx`) is included in the repository.
+
 
 ## Methods
 
