@@ -51,6 +51,11 @@ The dataset (`housing-prices-primary.xlsx`) is included in the repository.
 
 ![Detected breakpoints on the mean normalized price series](images/breakpoints.png)
 
-## Reference
-This repository contains the code and data underlying a paper currently under review.  
-ORCID: [0009-0002-1084-0284](https://orcid.org/0009-0002-1084-0284)
+## Publication
+This repository contains the code and data underlying the following published chapter:
+
+Kozaczewska, K. (2025). *Analiza cen mieszkań w wybranych miastach w Polsce za pomocą metod klasyfikacji oraz wykrywania punktów zwrotnych szeregów czasowych*. In A. Grześkowiak & P. Peternek (Eds.), *Zastosowanie metod ilościowych w ekonomii i finansach* (pp. 93-105). Wydawnictwo Uniwersytetu Ekonomicznego we Wrocławiu.
+
+- DOI: [10.15611/2025.11.1.07](https://doi.org/10.15611/2025.11.1.07)
+- Digital library record: [Dolnośląska Biblioteka Cyfrowa](https://dbc.wroc.pl/publication/187774)
+- ORCID: [0009-0002-1084-0284](https://orcid.org/0009-0002-1084-0284)
