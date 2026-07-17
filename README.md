@@ -59,3 +59,9 @@ Kozaczewska, K. (2025). *Analiza cen mieszkań w wybranych miastach w Polsce za 
 - DOI: [10.15611/2025.11.1.07](https://doi.org/10.15611/2025.11.1.07)
 - Digital library record: [Dolnośląska Biblioteka Cyfrowa](https://dbc.wroc.pl/publication/187774)
 - ORCID: [0009-0002-1084-0284](https://orcid.org/0009-0002-1084-0284)
+
+## License
+
+Code in this repository is licensed under the MIT License.
+
+The published chapter associated with this project is available via Dolnośląska Biblioteka Cyfrowa under CC BY-SA 4.0. The housing price data comes from the National Bank of Poland (NBP).
